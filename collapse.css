@@ -1,5 +1,4 @@
 .wrapper__216eb.guilds__2b93a, .sidebar_e031be{
-    height: 100%;
     position: absolute;
     opacity: 0.05%;
     z-index: 30;
@@ -9,6 +8,7 @@
 /* Sidebars */
 
 .wrapper__216eb.guilds__2b93a{
+    height: 80%;
     margin-top: 48.1px;
     z-index: 30;
     right: var(--server-position);
@@ -17,11 +17,16 @@
 }
 
 .sidebar_e031be{
+    height: 90%;
     right: var(--channel-position);
     width: 90px;
 }
 
 /* Hover */
+
+.wrapper__216eb.guilds__2b93a:hover, .sidebar_e031be:hover{
+    height: 100%;
+}
 
 .wrapper__216eb.guilds__2b93a:hover{
     width: 72px;
