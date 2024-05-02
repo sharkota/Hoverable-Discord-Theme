@@ -1,8 +1,9 @@
 # Hoverable-Discord-Theme
-### Hoverable Sidebars for a more compact discord.
+### Hoverable Sidebars for a more minimal discord.
 
 ## Installation
-Vencord
+
+## Vencord
 
 ### Local
 1. Go to User Settings -> Vencord -> Themes -> Local Themes
