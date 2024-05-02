@@ -2,8 +2,8 @@
 ### Hoverable Sidebars for a more minimal discord.
 
 ## Installation
-Vencord can be found [Here](https://vencord.dev)
-BetterDiscord can be found [Here](https://betterdiscord.app)
+### Vencord can be found [Here](https://vencord.dev)
+### BetterDiscord can be found [Here](https://betterdiscord.app)
 
 ## Vencord
 
