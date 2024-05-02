@@ -2,6 +2,8 @@
 ### Hoverable Sidebars for a more minimal discord.
 
 ## Installation
+Vencord can be found [Here](https://vencord.dev)
+BetterDiscord can be found [Here](https://betterdiscord.app)
 
 ## Vencord
 
@@ -23,7 +25,7 @@ https://kota.is-a.dev/Hoverable-Discord-Theme/collapse.theme.css
 https://kota.is-a.dev/Hoverable-Discord-Theme/collapse.theme.css
 ```
 
-### BetterDiscord
+## BetterDiscord
 1. Go to User Settings -> BetterDiscord -> Themes
 2. Click Open Themes Folder
 3. Download the CSS file below (Until this is up on BetterDiscord)
