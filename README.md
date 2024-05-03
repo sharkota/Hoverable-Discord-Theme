@@ -28,7 +28,7 @@ https://kota.is-a.dev/Hoverable-Discord-Theme/collapse.theme.css
 ## BetterDiscord
 1. Go to User Settings -> BetterDiscord -> Themes
 2. Click Open Themes Folder
-3. Download the CSS file below (Until this is up on BetterDiscord)
+3. Download the CSS file below
 ```
 https://kota.is-a.dev/Hoverable-Discord-Theme/collapse.theme.css
 ```
