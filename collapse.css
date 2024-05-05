@@ -8,8 +8,8 @@
 /* Sidebars */
 
 .wrapper__216eb.guilds__2b93a{
-    height: 80%;
-    margin-top: 48.1px;
+    height: 70%;
+    margin-top: 6%;
     z-index: 5;
     right: var(--server-position);
     width: 72px;
@@ -17,7 +17,8 @@
 }
 
 .sidebar_e031be{
-    height: 90%;
+    height: 70%;
+    margin-top: 7%;
     right: var(--channel-position);
     width: 90px;
 }
@@ -31,9 +32,11 @@
 .wrapper__216eb.guilds__2b93a:hover{
     width: 72px;
     opacity: 100% !important;
+    margin-top: 48.1px;
 }
 
 .sidebar_e031be:hover{
+    margin-top: 0%;
     opacity: 100%;
     width: 250px;
 }
@@ -60,5 +63,10 @@
 }
 
 .contentWrapper_e0bb2c, .form_d8a4a1:hover{
+    z-index: 15 !important;
+}
+
+.topControls_e834ab.controlSection_b43ab2, .bottomControls__72d8d.controlSection_b43ab2{
+    visibility: visible;
     z-index: 15 !important;
 }
