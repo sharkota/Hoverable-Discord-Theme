@@ -1,4 +1,4 @@
-.wrapper__216eb.guilds__2b93a, .sidebar_e031be{
+.wrapper_fea3ef.guilds_a4d4d9, .sidebar_a4d4d9{
     position: absolute;
     opacity: 0.05%;
     z-index: 5 !important;
@@ -6,8 +6,7 @@
 }
 
 /* Sidebars */
-
-.wrapper__216eb.guilds__2b93a{
+.wrapper_fea3ef.guilds_a4d4d9{
     height: 70%;
     margin-top: 6%;
     z-index: 5;
@@ -16,7 +15,7 @@
     visibility: none;
 }
 
-.sidebar_e031be{
+.sidebar_a4d4d9{
     height: 70%;
     margin-top: 7%;
     right: var(--channel-position);
@@ -25,17 +24,17 @@
 
 /* Hover */
 
-.wrapper__216eb.guilds__2b93a:hover, .sidebar_e031be:hover{
+.wrapper_fea3ef.guilds_a4d4d9:hover, .sidebar_a4d4d9:hover{
     height: 100%;
 }
 
-.wrapper__216eb.guilds__2b93a:hover{
+.wrapper_fea3ef.guilds_a4d4d9:hover{
     width: 72px;
     opacity: 100% !important;
     margin-top: 48.1px;
 }
 
-.sidebar_e031be:hover{
+.sidebar_a4d4d9:hover{
     margin-top: 0%;
     opacity: 100%;
     width: 250px;
